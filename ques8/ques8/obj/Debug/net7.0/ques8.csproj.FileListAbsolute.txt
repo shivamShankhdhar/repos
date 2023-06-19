@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\ques8\ques8\bin\Debug\net7.0\ques8.exe
+C:\Users\Dell\source\repos\ques8\ques8\bin\Debug\net7.0\ques8.deps.json
+C:\Users\Dell\source\repos\ques8\ques8\bin\Debug\net7.0\ques8.runtimeconfig.json
+C:\Users\Dell\source\repos\ques8\ques8\bin\Debug\net7.0\ques8.dll
+C:\Users\Dell\source\repos\ques8\ques8\bin\Debug\net7.0\ques8.pdb
+C:\Users\Dell\source\repos\ques8\ques8\obj\Debug\net7.0\ques8.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ques8\ques8\obj\Debug\net7.0\ques8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ques8\ques8\obj\Debug\net7.0\ques8.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ques8\ques8\obj\Debug\net7.0\ques8.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ques8\ques8\obj\Debug\net7.0\ques8.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ques8\ques8\obj\Debug\net7.0\ques8.dll
+C:\Users\Dell\source\repos\ques8\ques8\obj\Debug\net7.0\refint\ques8.dll
+C:\Users\Dell\source\repos\ques8\ques8\obj\Debug\net7.0\ques8.pdb
+C:\Users\Dell\source\repos\ques8\ques8\obj\Debug\net7.0\ques8.genruntimeconfig.cache
+C:\Users\Dell\source\repos\ques8\ques8\obj\Debug\net7.0\ref\ques8.dll

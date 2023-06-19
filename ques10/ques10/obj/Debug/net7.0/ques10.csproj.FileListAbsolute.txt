@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\ques10\ques10\bin\Debug\net7.0\ques10.exe
+C:\Users\Dell\source\repos\ques10\ques10\bin\Debug\net7.0\ques10.deps.json
+C:\Users\Dell\source\repos\ques10\ques10\bin\Debug\net7.0\ques10.runtimeconfig.json
+C:\Users\Dell\source\repos\ques10\ques10\bin\Debug\net7.0\ques10.dll
+C:\Users\Dell\source\repos\ques10\ques10\bin\Debug\net7.0\ques10.pdb
+C:\Users\Dell\source\repos\ques10\ques10\obj\Debug\net7.0\ques10.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ques10\ques10\obj\Debug\net7.0\ques10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ques10\ques10\obj\Debug\net7.0\ques10.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ques10\ques10\obj\Debug\net7.0\ques10.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ques10\ques10\obj\Debug\net7.0\ques10.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ques10\ques10\obj\Debug\net7.0\ques10.dll
+C:\Users\Dell\source\repos\ques10\ques10\obj\Debug\net7.0\refint\ques10.dll
+C:\Users\Dell\source\repos\ques10\ques10\obj\Debug\net7.0\ques10.pdb
+C:\Users\Dell\source\repos\ques10\ques10\obj\Debug\net7.0\ques10.genruntimeconfig.cache
+C:\Users\Dell\source\repos\ques10\ques10\obj\Debug\net7.0\ref\ques10.dll

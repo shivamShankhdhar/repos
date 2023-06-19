@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Ques9\Ques9\bin\Debug\net7.0\Ques9.exe
+C:\Users\Dell\source\repos\Ques9\Ques9\bin\Debug\net7.0\Ques9.deps.json
+C:\Users\Dell\source\repos\Ques9\Ques9\bin\Debug\net7.0\Ques9.runtimeconfig.json
+C:\Users\Dell\source\repos\Ques9\Ques9\bin\Debug\net7.0\Ques9.dll
+C:\Users\Dell\source\repos\Ques9\Ques9\bin\Debug\net7.0\Ques9.pdb
+C:\Users\Dell\source\repos\Ques9\Ques9\obj\Debug\net7.0\Ques9.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Ques9\Ques9\obj\Debug\net7.0\Ques9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Ques9\Ques9\obj\Debug\net7.0\Ques9.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Ques9\Ques9\obj\Debug\net7.0\Ques9.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Ques9\Ques9\obj\Debug\net7.0\Ques9.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Ques9\Ques9\obj\Debug\net7.0\Ques9.dll
+C:\Users\Dell\source\repos\Ques9\Ques9\obj\Debug\net7.0\refint\Ques9.dll
+C:\Users\Dell\source\repos\Ques9\Ques9\obj\Debug\net7.0\Ques9.pdb
+C:\Users\Dell\source\repos\Ques9\Ques9\obj\Debug\net7.0\Ques9.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Ques9\Ques9\obj\Debug\net7.0\ref\Ques9.dll

@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Lab2Ques5\Lab2Ques5\bin\Debug\net7.0\Lab2Ques5.exe
+C:\Users\Dell\source\repos\Lab2Ques5\Lab2Ques5\bin\Debug\net7.0\Lab2Ques5.deps.json
+C:\Users\Dell\source\repos\Lab2Ques5\Lab2Ques5\bin\Debug\net7.0\Lab2Ques5.runtimeconfig.json
+C:\Users\Dell\source\repos\Lab2Ques5\Lab2Ques5\bin\Debug\net7.0\Lab2Ques5.dll
+C:\Users\Dell\source\repos\Lab2Ques5\Lab2Ques5\bin\Debug\net7.0\Lab2Ques5.pdb
+C:\Users\Dell\source\repos\Lab2Ques5\Lab2Ques5\obj\Debug\net7.0\Lab2Ques5.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Lab2Ques5\Lab2Ques5\obj\Debug\net7.0\Lab2Ques5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Lab2Ques5\Lab2Ques5\obj\Debug\net7.0\Lab2Ques5.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Lab2Ques5\Lab2Ques5\obj\Debug\net7.0\Lab2Ques5.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Lab2Ques5\Lab2Ques5\obj\Debug\net7.0\Lab2Ques5.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Lab2Ques5\Lab2Ques5\obj\Debug\net7.0\Lab2Ques5.dll
+C:\Users\Dell\source\repos\Lab2Ques5\Lab2Ques5\obj\Debug\net7.0\refint\Lab2Ques5.dll
+C:\Users\Dell\source\repos\Lab2Ques5\Lab2Ques5\obj\Debug\net7.0\Lab2Ques5.pdb
+C:\Users\Dell\source\repos\Lab2Ques5\Lab2Ques5\obj\Debug\net7.0\Lab2Ques5.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Lab2Ques5\Lab2Ques5\obj\Debug\net7.0\ref\Lab2Ques5.dll
