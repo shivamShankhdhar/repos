@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\LAB-3\LAB-3\bin\Debug\net7.0\LAB-3.exe
+C:\Users\Dell\source\repos\LAB-3\LAB-3\bin\Debug\net7.0\LAB-3.deps.json
+C:\Users\Dell\source\repos\LAB-3\LAB-3\bin\Debug\net7.0\LAB-3.runtimeconfig.json
+C:\Users\Dell\source\repos\LAB-3\LAB-3\bin\Debug\net7.0\LAB-3.dll
+C:\Users\Dell\source\repos\LAB-3\LAB-3\bin\Debug\net7.0\LAB-3.pdb
+C:\Users\Dell\source\repos\LAB-3\LAB-3\obj\Debug\net7.0\LAB-3.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\LAB-3\LAB-3\obj\Debug\net7.0\LAB-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\LAB-3\LAB-3\obj\Debug\net7.0\LAB-3.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\LAB-3\LAB-3\obj\Debug\net7.0\LAB-3.AssemblyInfo.cs
+C:\Users\Dell\source\repos\LAB-3\LAB-3\obj\Debug\net7.0\LAB-3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\LAB-3\LAB-3\obj\Debug\net7.0\LAB-3.dll
+C:\Users\Dell\source\repos\LAB-3\LAB-3\obj\Debug\net7.0\refint\LAB-3.dll
+C:\Users\Dell\source\repos\LAB-3\LAB-3\obj\Debug\net7.0\LAB-3.pdb
+C:\Users\Dell\source\repos\LAB-3\LAB-3\obj\Debug\net7.0\LAB-3.genruntimeconfig.cache
+C:\Users\Dell\source\repos\LAB-3\LAB-3\obj\Debug\net7.0\ref\LAB-3.dll
